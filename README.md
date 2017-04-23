@@ -161,7 +161,7 @@ ReactDOM.render(
 <h3>Summary</h3>
 
 As I know, I do not believe React is a difficult thing we need to learn. It is easy if we know javascript and node js. React can push html elements to a browser as a page via javascript. React component is an object that has its own property and events we can develop to interact this component with outside world.
-React js is only the one of front end technology we can quickly learn and use in business development as Angular js now is embedded into typescript in .net. React has advantages in mobile native apllication development as jquery for desktop devleopment.
+React js is only the one of front end technologies we can quickly learn and use in business development as Angular js which now is embedded into typescript in .net. React has its own advantages in mobile native application development as jquery for desktop devleopment.
 
 
 
